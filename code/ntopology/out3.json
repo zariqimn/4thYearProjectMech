@@ -1,0 +1,12 @@
+[
+    {
+        "components": [],
+        "name": "mass",
+        "type": "real",
+        "value": {
+            "isFinite": true,
+            "units": {},
+            "val": 1.0005069062916587
+        }
+    }
+]

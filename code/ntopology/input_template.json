@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "inputs": [
+        {
+            "description": "",
+            "name": "shell thickness",
+            "type": "real",
+            "units": "mm",
+            "value": 2.0
+        },
+        {
+            "description": "",
+            "name": "Approx. thickness",
+            "type": "real",
+            "units": "mm",
+            "value": 1.25
+        },
+        {
+            "description": "",
+            "name": "cell size",
+            "type": "real",
+            "units": "mm",
+            "value": 5.0
+        }
+    ],
+    "title": "26stapril"
+}
